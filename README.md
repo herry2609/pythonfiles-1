@@ -78,6 +78,9 @@ Compare memory locations of objects :-
 | -------- | -------------------- | ------------ |
 | `is`     | True if same object  | `a is b`     |
 | `is not` | True if not same obj | `a is not b` |
+
+
+# IF - ELSE (Conditional statements):
 #----------------------------------------------------------------------
 Conditional statements in Python allow the program to execute certain pieces of code based on whether a condition is True or False. They help in decision-making processes.
 #----------------------------------------------------------------------
